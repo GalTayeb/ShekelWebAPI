@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UsZjYQArPdkwOe0d3JTak3u8WX/wkJ7dIZdSgHjUWBI=",
+  "Source": "ShekelWebAPI",
+  "BasePath": "_content/ShekelWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
